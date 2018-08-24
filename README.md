@@ -4,14 +4,14 @@
 
 Through our project, we aim to study and understand the Housing Market for Austin and come up with an answer to a pressing issue: **Is Austin leading towards a Housing Bubble?**
 
-## Dataset
+## Dataset:
 The dataset we will be using contains information about housing market of Austin and the key factors that affect the same and spans from 2008 to 2018. Specifically, the dataset includes information on:
 1. Cities worst hit by the housing bubble of 2008.
 2. Pricing Index
 3. Affordable Housing Inventory (AHI)
 4. Months Inventory Vs Vacancies
 
-## Goals & Approaches
+## Goals & Approaches:
 Our goal is to come up with trends by analyzing the data that will help us to answer the question: Is Austin leading towards a Housing Bubble? We aim to achieve this by answering sub-questions as following:
 1. Key Factors that were common in the cities that were worst hit by the housing bubble of 2008.
 2. How has the pricing index changed over the ten years in Austin.
@@ -20,5 +20,5 @@ Our goal is to come up with trends by analyzing the data that will help us to an
 
 We would be using Pandas, Numpy and Matplotlib to drawout and explain our conclusion.
 
-## Future Scope
+## Future Scope:
 Studying and analyzing the Subprime Mortgage Criss of 2008 and drawing a comparison with the current market trends in Austin.
