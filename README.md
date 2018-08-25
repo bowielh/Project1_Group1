@@ -10,6 +10,7 @@ The dataset we will be using contains information about housing market of Austin
 2. Pricing Index
 3. Affordable Housing Inventory (AHI)
 4. Months Inventory Vs Vacancies
+5. Interest Rates
 
 ## Goals & Approaches:
 Our goal is to come up with trends by analyzing the data that will help us to answer the question: Is Austin leading towards a Housing Bubble? We aim to achieve this by answering sub-questions as following:
