@@ -1,6 +1,6 @@
-# Group 1: Bowie Hand, Jessica Serna, Yedidya Erque, Lu Wang, Shweta Banerjee
+## Group 1: Bowie Hand, Jessica Serna, Yedidya Erque, Lu Wang, Shweta Banerjee
 
-## Objective:
+# Objective:
 
 Through our project, we aim to study and understand the Housing Market for Austin and come up with an answer to a pressing issue: **Is Austin leading towards a Housing Bubble?**
 
