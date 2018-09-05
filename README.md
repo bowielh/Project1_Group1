@@ -15,12 +15,10 @@ The dataset we will be using contains information about housing market of Austin
 
 ## Goals & Approaches:
 Our goal is to come up with trends by analyzing the data that will help us to answer the question: Is Austin leading towards a Housing Bubble? We aim to achieve this by answering sub-questions as following:
-1. One of the key factors that were common in the cities that were worst hit by the housing bubble of 2008:
-   Mortgage Rates and Debt Status
+1. Trend analysis of mortgage rates and debt status
 2. How has the housing pricing index changed over the ten years in Austin?
-3. Analysing how Months Inventory Vs Vacancies of houses is changing rapidly in Austin.
-4. Why is the Affordable Housing Inventory (AHI) one of the key factors that affect the Housing market in Austin?
-5. Does AHI affect the Austin Housing Income and Price?
+3. Analysing how monthly inventory Vs vacancy rates are changing in Austin
+4. How Affordable Housing Inventory (AHI) affects the housing market in Austin?
 
 ## Conclusion:
 1. Based on current data, there are no indicators that suggest Austin is in a housing market bubble.
