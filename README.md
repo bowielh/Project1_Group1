@@ -1,4 +1,4 @@
-# Group 1: Project Proposal
+# Group 1: Bowie Hand, Jessica Serna, Yedidya Erque, Lu Wang, Shweta Banerjee
 
 ## Objective:
 
