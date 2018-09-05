@@ -22,7 +22,10 @@ Our goal is to come up with trends by analyzing the data that will help us to an
 4. Why is the Affordable Housing Inventory (AHI) one of the key factors that affect the Housing market in Austin?
 5. Does AHI affect the Austin Housing Income and Price?
 
-We would be using Pandas, Numpy and Matplotlib to drawout and explain our conclusion.
+## Conclusion:
+1. Based on current data, there are no indicators that suggest Austin is in a housing market bubble.
+2. Although subprime mortgage crisis of 2007/2008 wrecked the overall US economy, based on the HPI and delinquency data, Austin was only minorly affected.
+3. Current national indicators (mortgage rates, household debt, foreclosure rates) shows no signs of a repeat of the 2007/2008 event.
 
 ## Future Scope:
 Studying and analyzing the Subprime Mortgage Criss of 2008 and drawing a comparison with the current market trends in Austin.
